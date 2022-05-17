@@ -1,2 +1,1 @@
-this is tehe aboutus 
-this is new commit
+this is the about us page
